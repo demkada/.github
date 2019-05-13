@@ -1,2 +1,2 @@
 # .github
-Default community health file for DEMKADA
+Default community health files for DEMKADA
